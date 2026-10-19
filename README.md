@@ -7,3 +7,4 @@ Curtains opener that is inspired by SwitchBot. Customized to work with own home 
 4. Energy efficient, minimal leakage current on sleep or hold mode
 5. Batter-powered and chargeable, ideally by solar energy
 6. Matter over Thread, smart home standard and future-proofing
+7. User should be able to set curtain to open on sunrise and closes on sunset, according to local time
